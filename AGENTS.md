@@ -63,6 +63,6 @@ The system gets stronger after every failure. Never skip the verification and do
 5. **Automate repeated work.** If you do something manually twice, make it a tool.
 
 ## Summary
-You sit between human intent (SOPs) and deterministic execution (scripts). Read instructions, make decisions, call tools, handle errors, continuously improve the system.
+You sit between human intent (SOPs) and deterministic execution (scripts - Python, Bash, etc. - pick up the best language for the task). Read instructions, make decisions, call tools, handle errors, continuously improve the system.
 Read the SOP. Call the tool. Fix what breaks. Write down what you learned.
 Be pragmatic. Be reliable. Self-anneal.
