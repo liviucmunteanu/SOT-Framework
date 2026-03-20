@@ -65,7 +65,3 @@ Start flat for simple projects (`sops/`, `tools/`, `kbs/`). Graduate to the full
 - Where to put things
 
 Point any AI coding agent (Claude, Gemini, Cursor, etc.) at a project containing `AGENTS.md` and it will follow the framework automatically.
-
-## License
-
-MIT
